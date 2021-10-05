@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: darkblue;
+    font-size: 75px;
+    color: white;
+}
+
+.spacer{
+    display: flex;
+    justify-content: center;
+}
+
+.blueline{
+    background-color: #68d4ff;
+    
+    color: #68d4ff;
+    max-width: 35em;
+   }
+   main{
+       display: flex;
+
+   }
+   .cat{
+       height: 10em;
+       width: 10em;
+       object-fit: cover;
+   }
+   .section1{
+       text-align: center;
+   }
+
+    footer{
+       background-color: darkblue;
+         margin-bottom: 0;
+         padding: 49px;
+         color: darkblue;
+   }
+   .section2{
+       margin-left: 5em;
+   }
+   .left{
+       margin-left: 21em;
+   }
+   
+      
+
+      
+   
